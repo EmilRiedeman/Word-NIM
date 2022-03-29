@@ -113,7 +113,7 @@ void mens_zet() {
 
 int main() {
 	lees_in();
-	cout << "Hallo, dit is geen virus!\n\n     Word NIM\nWord NIM is een variate op het normale nim spel.\nBij Word NIM starten de twee spelers met een set aan verschillende letters.\nOm de beurt maken de spelers een woord uit de letters,\nwaarna de letters die dat woord opmaken worden verwijderd uit het spel.\nZo gaat het door totdat iemand geen woord meer kan vormen,\ndie speler zal dan verliezen.\n\nIn dit programma speel je tegen een slimme robot genaamd Kasja. Veel succes! ( Zij begint ;) )\n";
+	cout << "Hallo, dit is geen virus!\n\n     Word NIM\nWord NIM is een variatie op het normale NIM spel.\nBij Word NIM starten de twee spelers met een set aan verschillende letters.\nOm de beurt maken de spelers een woord uit de letters,\nwaarna de letters die dat woord opmaken worden verwijderd uit het spel.\nZo gaat het door totdat iemand geen woord meer kan vormen,\ndie speler zal dan verliezen.\n\nIn dit programma speel je tegen een slimme robot genaamd Kasja. Veel succes! ( Zij begint ;) )\n";
 	cout << "\n\nKies hier de letters voor het spel of een woord (niet te lang!!): ";
 	string aansteeklont;
 	cin >> aansteeklont;
